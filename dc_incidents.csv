@@ -1,0 +1,51 @@
+incident_id,date,time,server_id,location,incident_type,severity,downtime_minutes,technician,status,notes
+INC001,2024-01-03,08:23,SRV-101,Rack A1,Power Failure,High,120,Ali Hassan,Resolved,UPS failed
+INC002,2024-01-05,14:10,SRV-203,Rack B2,Network Outage,Medium,45,Priya Nair,Resolved,Switch malfunction
+INC003,2024-01-07,,SRV-305,Rack C1,Hardware Fault,High,200,Ali Hassan,Resolved,Disk failure
+INC004,2024-01-10,09:00,SRV-101,Rack A1,Power Failure,High,150,,,Resolved
+INC005,2024-01-12,11:30,SRV-410,Rack D2,Cooling Issue,Medium,60,Rajesh Kumar,Resolved,Temperature spike
+INC006,2024-01-15,16:45,SRV-203,Rack B2,Network Outage,LOW,30,Priya Nair,resolved,
+INC007,2024-01-18,07:00,SRV-305,Rack C1,Hardware Fault,High,300,Ali Hassan,Resolved,RAID failure
+INC008,2024-01-20,13:15,SRV-502,Rack E1,Power Failure,High,90,Siti Aminah,Resolved,
+INC009,2024-01-22,10:00,SRV-101,rack a1,Cooling Issue,Medium,75,Rajesh Kumar,Resolved,AC unit down
+INC010,2024-01-25,,,SRV-203,Rack B2,Network Outage,Medium,50,Priya Nair,Resolved
+INC011,2024-02-01,08:00,SRV-410,Rack D2,Power Failure,HIGH,180,Siti Aminah,Resolved,Generator fault
+INC012,2024-02-03,15:30,SRV-502,Rack E1,Hardware Fault,Medium,110,Ali Hassan,Resolved,Memory error
+INC013,2024-02-05,12:00,SRV-101,Rack A1,Network Outage,Low,25,Priya Nair,Resolved,
+INC014,2024-02-08,09:45,SRV-305,Rack C1,Cooling Issue,High,240,Rajesh Kumar,Resolved,Chiller broke
+INC015,2024-02-10,,,SRV-410,,Medium,,Siti Aminah,Pending,
+INC016,2024-02-13,14:00,SRV-502,Rack E1,Power Failure,High,130,Ali Hassan,Resolved,
+INC017,2024-02-15,11:00,SRV-203,Rack B2,Hardware Fault,HIGH,95,Priya Nair,Resolved,CPU overheat
+INC018,2024-02-18,08:30,SRV-101,Rack A1,Network Outage,Medium,40,Rajesh Kumar,resolved,
+INC019,2024-02-20,16:00,SRV-305,Rack C1,Power Failure,High,160,Siti Aminah,Resolved,
+INC020,2024-02-22,10:30,SRV-410,Rack D2,Cooling Issue,Low,20,Ali Hassan,Resolved,
+INC021,2024-03-01,09:00,SRV-502,Rack E1,Hardware Fault,High,275,Priya Nair,Resolved,SSD failure
+INC022,2024-03-04,13:00,SRV-101,Rack A1,Power Failure,HIGH,140,Rajesh Kumar,Resolved,
+INC023,2024-03-06,07:45,SRV-203,rack b2,Network Outage,Medium,55,Siti Aminah,Resolved,
+INC024,2024-03-08,11:15,SRV-305,Rack C1,Cooling Issue,High,190,Ali Hassan,Resolved,Fan failure
+INC025,2024-03-10,14:30,SRV-410,Rack D2,Hardware Fault,Medium,80,Priya Nair,Resolved,
+INC026,2024-03-12,08:00,SRV-502,Rack E1,Power Failure,High,115,Rajesh Kumar,Resolved,
+INC027,2024-03-15,15:00,SRV-101,Rack A1,Network Outage,Low,35,Siti Aminah,Resolved,
+INC028,2024-03-18,10:00,SRV-203,Rack B2,Cooling Issue,Medium,65,Ali Hassan,resolved,
+INC029,2024-03-20,,SRV-305,Rack C1,Hardware Fault,High,220,Priya Nair,Resolved,
+INC030,2024-03-22,09:30,SRV-410,Rack D2,Power Failure,HIGH,170,,Resolved,
+INC031,2024-04-01,08:15,SRV-502,Rack E1,Cooling Issue,Medium,85,Rajesh Kumar,Resolved,
+INC032,2024-04-03,12:45,SRV-101,Rack A1,Hardware Fault,High,260,Siti Aminah,Resolved,NIC failure
+INC033,2024-04-05,16:00,SRV-203,Rack B2,Power Failure,High,125,Ali Hassan,Resolved,
+INC034,2024-04-08,09:00,SRV-305,rack c1,Network Outage,Medium,45,Priya Nair,Resolved,
+INC035,2024-04-10,11:30,SRV-410,Rack D2,Cooling Issue,High,195,Rajesh Kumar,Resolved,Coolant leak
+INC036,2024-04-12,14:15,,Rack E1,Hardware Fault,Medium,70,Siti Aminah,Resolved,
+INC037,2024-04-15,08:00,SRV-101,Rack A1,Power Failure,HIGH,145,,Resolved,
+INC038,2024-04-18,10:30,SRV-203,Rack B2,Network Outage,Low,28,Ali Hassan,resolved,
+INC039,2024-04-20,13:00,SRV-305,Rack C1,Hardware Fault,High,310,Priya Nair,Resolved,Motherboard
+INC040,2024-04-22,15:45,SRV-410,Rack D2,Cooling Issue,Medium,55,Rajesh Kumar,Resolved,
+INC041,2024-05-01,09:15,SRV-502,Rack E1,Power Failure,High,135,Siti Aminah,Resolved,
+INC042,2024-05-03,11:00,SRV-101,Rack A1,Network Outage,Medium,42,Ali Hassan,Resolved,
+INC043,2024-05-06,08:30,SRV-203,Rack B2,Cooling Issue,High,205,Priya Nair,Resolved,
+INC044,2024-05-08,14:00,SRV-305,Rack C1,Hardware Fault,Medium,88,Rajesh Kumar,Resolved,
+INC045,2024-05-10,16:30,SRV-410,rack d2,Power Failure,HIGH,155,Siti Aminah,Resolved,
+INC046,2024-05-13,10:00,SRV-502,Rack E1,Network Outage,Low,22,Ali Hassan,Resolved,
+INC047,2024-05-15,12:30,,Rack A1,Cooling Issue,Medium,68,Priya Nair,Resolved,
+INC048,2024-05-18,09:00,SRV-203,Rack B2,Hardware Fault,High,285,Rajesh Kumar,Resolved,PSU failure
+INC049,2024-05-20,15:00,SRV-305,Rack C1,Power Failure,High,175,,Pending,
+INC050,2024-05-22,11:45,SRV-410,Rack D2,Network Outage,Medium,48,Siti Aminah,Resolved,
